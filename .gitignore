@@ -1,5 +1,4 @@
 .DS_Store
-.env.local
 .eslintcache
 .expo/
 .metro-health-check*
@@ -25,3 +24,7 @@ web-build/
 .source_strings.json
 .src_manifest.json
 src/translations/
+config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
